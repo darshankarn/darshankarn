@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darshankarn
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Rsponsive Web design
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
